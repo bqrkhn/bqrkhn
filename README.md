@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Baqir Khan</h1>
+<h1 align="center">Hello! I'm Baqir Khan</h1>
 <h3 align="center">Backend engineer with more than 5 years of experiance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bqrkhn&label=Profile%20views&color=0e75b6&style=flat" alt="bqrkhn" /> </p>
