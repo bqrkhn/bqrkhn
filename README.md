@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bqrkhn" alt="bqrkhn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bqrkhn" target="blank"><img src="https://img.shields.io/twitter/follow/bqrkhn?logo=twitter&style=for-the-badge" alt="bqrkhn" /></a> </p>
-
 - 🔭 I’m currently working for [Nektar AI](https://github.com/nektarai/nektar) as **Senior Software Engineer**.
 
 - 📫 How to reach me **baqirkhan00@gmail.com**
 
-- 📄 Checkout my latest resume [here](https://blue-elenore-8.tiiny.site/)
+- 📄 Checkout my latest resume [here](https://blue-elenore-8.tiiny.site/) and contributions below 👇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
